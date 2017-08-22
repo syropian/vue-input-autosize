@@ -1,4 +1,6 @@
-# vue-input-autosize
+# vue-input-autosize [DEPRECATED]
+
+## This package has been deprecated in favour of [vue-input-autowidth](https://github.com/syropian/vue-input-autowidth) that has support for Vue.js 2+ and a slew of bug fixes and improvements.
 
 [![Build Status](https://travis-ci.org/syropian/vue-input-autosize.svg?branch=master)](https://travis-ci.org/syropian/vue-input-autosize)
 
